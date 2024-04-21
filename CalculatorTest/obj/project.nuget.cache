@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLIb0jMtRV0W0s9ItFglzsQKznGVp+xDzeDtrQQQ9JfiSDcqmjJq1TS44uem+EDH+R+fNCv07tyaPnALhkc48A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Катя\\Documents\\CalculatorTest\\CalculatorTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Катя\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
